@@ -1,0 +1,15 @@
+print('area de um triangulo\n')
+#
+x=float(input(print('altura do triangulo \n')))
+#
+y=float(input(print('base do triangulo \n')))
+#
+#1    ()
+#2    **
+#3    *  /  //  %
+#4    +  -
+#
+a=(y*x)/2
+#
+print(f'area = {a}')
+#
